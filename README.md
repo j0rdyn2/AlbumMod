@@ -5,6 +5,8 @@ Album Mod Lite expands the music release system in Idol Manager by adding a more
 
 ‼‼‼Open the album popup (Press F6)‼‼‼
 
+‼‼‼Open the album Charts popup (Press F8)‼‼‼
+
 Please put in your plugins folder,
 Example- G:\SteamLibrary\steamapps\common\Idol Manager\BepInEx\plugins
 
